@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="VeloxFin.API/VeloxFin.API.csproj" />
+  <Project Path="VeloxFin.Application/VeloxFin.Application.csproj" />
+  <Project Path="VeloxFin.Core/VeloxFin.Core.csproj" />
+  <Project Path="VeloxFin.Infrastructure/VeloxFin.Infrastructure.csproj" />
+  <Project Path="VeloxFin.Shared/VeloxFin.Shared.csproj" />
+</Solution>
