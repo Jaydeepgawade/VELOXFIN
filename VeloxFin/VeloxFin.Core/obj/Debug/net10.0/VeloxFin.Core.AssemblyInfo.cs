@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VeloxFin.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cec3cb368c7a5209ec0a779dd79122b211c1b2b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d79ba9f97023c1fc00b17c0d65e910957360a732")]
 [assembly: System.Reflection.AssemblyProductAttribute("VeloxFin.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VeloxFin.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
